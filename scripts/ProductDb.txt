@@ -1,0 +1,27 @@
+CREATE DATABASE ProductsDb;
+
+USE ProductsDb;
+
+CREATE TABLE Products (
+Id             INT              IDENTITY (1, 1) NOT NULL,
+ProductName      NVARCHAR (30)    NOT NULL,
+Category       NVARCHAR (30)    NOT NULL,
+);
+
+INSERT Products VALUES
+('IPhone X', 'Smartphones'),
+('DELL', 'Computers'),
+('Lenovo', 'Laptops'),
+('Samsung', 'Smartphones');
+
+CREATE TABLE Categories (
+Id             INT              IDENTITY (1, 1) NOT NULL,
+CategoryType      NVARCHAR (30)    NOT NULL,
+);
+
+INSERT Categories VALUES
+('Smartphones'),
+('Computers'),
+('Printers'),
+('Laptops'),
+('Keyboards');
