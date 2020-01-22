@@ -30,6 +30,6 @@ namespace TestTask.Product.Interfaces.Services
         /// Gets all categories from repository.
         /// </summary>
         /// <returns></returns>
-        Task<IEnumerable<Category>> GetCategories();
+        Task<IEnumerable<string>> GetCategories();
     }
 }

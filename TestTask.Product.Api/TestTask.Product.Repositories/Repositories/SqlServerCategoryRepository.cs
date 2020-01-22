@@ -15,7 +15,7 @@ namespace TestTask.Product.Repositories.Repositories
     /// <summary>
     /// Manages work with categories in storage.
     /// </summary>
-    public class SqlServerCategoryRepository : IGetter<Category>
+    public class SqlServerCategoryRepository : IGetter<string>
     {
         private readonly string _connectionString;
 
@@ -34,11 +34,11 @@ namespace TestTask.Product.Repositories.Repositories
         /// Gets all categories from database.
         /// </summary>
         /// <returns></returns>
-        public async Task<IEnumerable<Category>> GetAll()
+        public async Task<IEnumerable<string>> GetAll()
         {
             using (var db = new SqlConnection(_connectionString))
             {
-                return await db.QueryAsync<Category>(MSSQLQueries.GetAllCategories);
+                return await db.QueryAsync<string>(MSSQLQueries.GetAllCategories);
             }
         }
     }

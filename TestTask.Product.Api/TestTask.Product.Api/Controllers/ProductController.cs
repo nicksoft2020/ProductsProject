@@ -83,7 +83,7 @@ namespace TestTask.Product.Api.Controllers
         {
             try
             {
-                IEnumerable<Category> categories = await _productService.GetCategories();
+                IEnumerable<string> categories = await _productService.GetCategories();
                 return Ok(categories);
             }
             catch (Exception exception)

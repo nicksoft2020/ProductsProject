@@ -22,7 +22,7 @@ namespace TestTask.Product.Repositories.Configuration
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
 
-            services.AddTransient<IGetter<Category>, SqlServerCategoryRepository>();
+            services.AddTransient<IGetter<string>, SqlServerCategoryRepository>();
             services.AddTransient<IRepository<ProductData>, SqlServerProductRepository>();
 
             return services;

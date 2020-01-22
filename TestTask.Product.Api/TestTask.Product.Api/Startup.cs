@@ -42,6 +42,10 @@ namespace TestTask.Product.Api
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors(option => option.WithOrigins(Configuration["ApplicationSettings:Client_Url"].ToString())
+                .AllowAnyMethod()
+                .AllowAnyHeader());
+            app.UseHttpsRedirection();
             app.UseHttpsRedirection();
 
             app.UseRouting();

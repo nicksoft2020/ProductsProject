@@ -14,7 +14,7 @@ namespace TestTask.Product.Services.Services
     /// </summary>
     public class ProductService : IProductService<ProductData>
     {
-        private readonly IGetter<Category> _categoryRepository;
+        private readonly IGetter<string> _categoryRepository;
         private readonly IRepository<ProductData> _productRepository;
 
         /// <summary>
@@ -26,7 +26,7 @@ namespace TestTask.Product.Services.Services
         /// <param name="productRepository">
         /// Product repository class.
         /// </param>
-        public ProductService(IGetter<Category> categoryRepository, IRepository<ProductData> productRepository)
+        public ProductService(IGetter<string> categoryRepository, IRepository<ProductData> productRepository)
         {
             _categoryRepository = categoryRepository;
             _productRepository = productRepository;
@@ -57,7 +57,7 @@ namespace TestTask.Product.Services.Services
         /// Gets categories from repository.
         /// </summary>
         /// <returns></returns>
-        public async Task<IEnumerable<Category>> GetCategories()
+        public async Task<IEnumerable<string>> GetCategories()
         {
             return await _categoryRepository.GetAll();
         }
