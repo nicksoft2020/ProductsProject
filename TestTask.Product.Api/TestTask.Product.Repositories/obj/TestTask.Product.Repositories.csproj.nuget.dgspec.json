@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Repositories\\TestTask.Product.Repositories.csproj": {}
+  },
+  "projects": {
+    "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Interfaces\\TestTask.Product.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Interfaces\\TestTask.Product.Interfaces.csproj",
+        "projectName": "TestTask.Product.Interfaces",
+        "projectPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Interfaces\\TestTask.Product.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Eldorado\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eldorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\TestTask.Product.Models.csproj": {
+                "projectPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\TestTask.Product.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\TestTask.Product.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\TestTask.Product.Models.csproj",
+        "projectName": "TestTask.Product.Models",
+        "projectPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\TestTask.Product.Models.csproj",
+        "packagesPath": "C:\\Users\\Eldorado\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eldorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Repositories\\TestTask.Product.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Repositories\\TestTask.Product.Repositories.csproj",
+        "projectName": "TestTask.Product.Repositories",
+        "projectPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Repositories\\TestTask.Product.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Eldorado\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eldorado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Interfaces\\TestTask.Product.Interfaces.csproj": {
+                "projectPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Interfaces\\TestTask.Product.Interfaces.csproj"
+              },
+              "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\TestTask.Product.Models.csproj": {
+                "projectPath": "D:\\Repositories\\ProductsProject\\TestTask.Product.Api\\TestTask.Product.Models\\TestTask.Product.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

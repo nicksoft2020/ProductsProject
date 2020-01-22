@@ -1,0 +1,11 @@
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\bin\Debug\netcoreapp3.1\TestTask.Product.Interfaces.deps.json
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\bin\Debug\netcoreapp3.1\TestTask.Product.Interfaces.dll
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\bin\Debug\netcoreapp3.1\TestTask.Product.Interfaces.pdb
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\obj\Debug\netcoreapp3.1\TestTask.Product.Interfaces.AssemblyInfoInputs.cache
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\obj\Debug\netcoreapp3.1\TestTask.Product.Interfaces.AssemblyInfo.cs
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\obj\Debug\netcoreapp3.1\TestTask.Product.Interfaces.dll
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\obj\Debug\netcoreapp3.1\TestTask.Product.Interfaces.pdb
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\bin\Debug\netcoreapp3.1\TestTask.Product.Models.dll
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\bin\Debug\netcoreapp3.1\TestTask.Product.Models.pdb
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\obj\Debug\netcoreapp3.1\TestTask.Product.Interfaces.csprojAssemblyReference.cache
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Interfaces\obj\Debug\netcoreapp3.1\TestTask.Product.Interfaces.csproj.CopyComplete

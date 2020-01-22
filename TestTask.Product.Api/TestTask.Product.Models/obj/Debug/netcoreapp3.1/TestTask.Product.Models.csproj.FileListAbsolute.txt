@@ -1,0 +1,8 @@
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\bin\Debug\netcoreapp3.1\TestTask.Product.Models.deps.json
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\bin\Debug\netcoreapp3.1\TestTask.Product.Models.dll
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\bin\Debug\netcoreapp3.1\TestTask.Product.Models.pdb
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\obj\Debug\netcoreapp3.1\TestTask.Product.Models.csprojAssemblyReference.cache
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\obj\Debug\netcoreapp3.1\TestTask.Product.Models.AssemblyInfoInputs.cache
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\obj\Debug\netcoreapp3.1\TestTask.Product.Models.AssemblyInfo.cs
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\obj\Debug\netcoreapp3.1\TestTask.Product.Models.dll
+D:\Repositories\ProductsProject\TestTask.Product.Api\TestTask.Product.Models\obj\Debug\netcoreapp3.1\TestTask.Product.Models.pdb

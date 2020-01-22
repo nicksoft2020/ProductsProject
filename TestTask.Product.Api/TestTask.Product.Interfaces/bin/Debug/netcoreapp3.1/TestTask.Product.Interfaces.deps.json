@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestTask.Product.Interfaces/1.0.0": {
+        "dependencies": {
+          "TestTask.Product.Models": "1.0.0"
+        },
+        "runtime": {
+          "TestTask.Product.Interfaces.dll": {}
+        }
+      },
+      "TestTask.Product.Models/1.0.0": {
+        "runtime": {
+          "TestTask.Product.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTask.Product.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestTask.Product.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
